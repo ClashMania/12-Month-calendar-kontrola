@@ -1,0 +1,11 @@
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\bin\Debug\12 Month calendar kontrola.exe.config
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\bin\Debug\12 Month calendar kontrola.exe
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\bin\Debug\12 Month calendar kontrola.pdb
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\_12_Month_calendar_kontrola.Form1.resources
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\_12_Month_calendar_kontrola.Properties.Resources.resources
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csproj.GenerateResource.cache
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.exe
+C:\Users\heist\Documents\Code\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.pdb
